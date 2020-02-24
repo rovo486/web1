@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.jojo.web1.domain.PostsRepository;
-import com.jojo.web1.dto.PostsSaveRequestDto;
+import com.jojo.web1.dto.posts.PostsSaveRequestDto;
 
 import lombok.AllArgsConstructor;
 

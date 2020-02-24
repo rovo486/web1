@@ -1,4 +1,4 @@
-package com.jojo.web1.dto;
+package com.jojo.web1.dto.posts;
 
 import com.jojo.web1.domain.Posts;
 
